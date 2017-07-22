@@ -1,4 +1,6 @@
-MyApp
+# TestGit
+
+## Latest Edits
 
 Edit 1
 Edit 2
